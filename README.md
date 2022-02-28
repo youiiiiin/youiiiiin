@@ -1,8 +1,11 @@
 # Hi, I'm Yu-Ying 👋
 
-<strong>I study at MSc in Big Data & Business Analytsics student in Paris, France.</strong>
+<strong>I'm studying a MSc in Big Data & Business Analytsics in Paris, France.</strong>
 
 - 🌱 I’m currently learning Data Analytics!
+- 👩‍🎓 BA in English
+- 👩‍💼 Marketing specialist, English teacher and interpreter
+- 🗣️ I speak Mandarin, Taiwanese, English, some German, and in French I can say pain au chocolat!
 - 💬 Ask me about Marketing & TAIWAN
 - ⚡ Fun fact: I used to be in a band & plays! I love singing and acting.
 - 📫 You can reach me on Linkedin or by sending me an email:
