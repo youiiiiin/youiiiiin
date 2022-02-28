@@ -6,7 +6,8 @@
 - 👩‍🎓 BA in English
 - 👩‍💼 Marketing specialist, English teacher and interpreter
 - 🗣️ I speak Mandarin, Taiwanese, English, some German, and in French I can say pain au chocolat!
-- 💬 Ask me about Marketing & TAIWAN
+- 🎙️ I host in a podcast about big data in real life
+- 💬 Ask me about marketing, Taiwan or do a podcast episode with me!
 - ⚡ Fun fact: I used to be in a band & plays! I love singing and acting.
 - 📫 You can reach me on Linkedin or by sending me an email:
     * 👔 [LinkedIn](https://www.linkedin.com/in/yuyinghuanggg/)
