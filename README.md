@@ -1,17 +1,16 @@
 # Hi, I'm Yu-Ying 👋
 
-<strong>I'm studying a MSc in Big Data & Business Analytsics in Paris, France.</strong>
+<strong> BI Specialist in Frankfurt.</strong>
 
-- 🌱 I’m currently learning Data Analytics!
-- 👩‍🎓 BA in English
-- 👩‍💼 Marketing specialist, English teacher and interpreter
+- 👩‍🎓 MSc in Big Data and Business Analytics + BA in English & Business management.
+- 👩‍💼 ex Marketing & sales specialist, English teacher and interpreter
 - 🗣️ I speak Mandarin, Taiwanese, English, some German, and in French I can say pain au chocolat!
 - 🎙️ I host in a podcast about big data in real life, check it out [here](https://open.spotify.com/show/4BV6TbwNezNYt7zYeuujYm?si=6fa8acf4e05e4470)
 - 💬 Ask me about marketing, Taiwan or do a podcast episode with me!
 - ⚡ Fun fact: I used to be in a band & plays! I love singing and acting.
 - 📫 You can reach me on Linkedin or by sending me an email:
     * 👔 [LinkedIn](https://www.linkedin.com/in/yuyinghuanggg/)
-    * ✉️ [yu_ying.huang@edu.escp.eu](mailto:yu_ying.huang@edu.escp.eu)
+    * ✉️ [yuying.huanggg@gmail.com](mailto:yuying.huanggg@gmail.com)
 
 
 
