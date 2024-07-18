@@ -1,6 +1,6 @@
 # Hi, I'm Yu-Ying 👋
 
-<strong> BI Specialist at Fintech in Frankfurt, Germany</strong>
+<strong> BI Engineer in Frankfurt, Germany</strong>
 
 - 👩‍🎓 MSc in Big Data and Business Analytics + BA in English & Business management.
 - 👩‍💼 ex Marketing & sales specialist, English teacher and interpreter
