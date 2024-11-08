@@ -8,8 +8,6 @@
 - 💬 Ask me about marketing, Taiwan or do a podcast episode with me!
 - 📫 You can reach me on Linkedin or by sending me an email:
     * 👔 [LinkedIn](https://www.linkedin.com/in/yuyinghuanggg/)
-    * ✉️ [yuying.huanggg@gmail.com](mailto:yuying.huanggg@gmail.com)
-
 
 
 ## 🧰 Languages and Tools:
